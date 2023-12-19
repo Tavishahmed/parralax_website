@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .parallax-1 {
+    width: 100%;
+    height: 600px;
+    background: url(/WhatsApp\ Image\ 2023-12-19\ at\ 15.58.49_4bb4177d.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .parallax-1 h2 {
+    text-align: center;
+    margin: auto;
+    /* left: 500px; */
+    top: 300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    position: relative;
+    border-radius: 7px;
+  }
+  .para-1 {
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    padding: 50px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .parallax-2 {
+    width: 100%;
+    height: 600px;
+    background: url(/WhatsApp\ Image\ 2023-12-19\ at\ 15.58.48_fca9ca12.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  .parallax-2 h2 {
+    text-align: center;
+    margin: auto;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    position: relative;
+    font-size: 30px;
+    border-radius: 7px;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  }
+  .para-2 {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .parallax-3 {
+    width: 100%;
+    height: 600px;
+    background: url(/WhatsApp\ Image\ 2023-12-19\ at\ 15.58.49_1d5a3fdf.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  .parallax-3 h2 {
+    text-align: center;
+    margin: auto;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    position: relative;
+    font-size: 30px;
+    border-radius: 7px;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  }
+  .para-3 {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
